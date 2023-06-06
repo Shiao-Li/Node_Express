@@ -1,5 +1,5 @@
 
-#  Funcionamiento de request y response
+#  Funcionamiento de routes
 
 Familiarizar al estudiante con el Framework Express
 
